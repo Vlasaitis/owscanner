@@ -1,0 +1,10 @@
+__pycache__
+myenv/
+debug
+messylegacycode
+models
+error.txt
+*.mp4
+*.csv
+*.mov
+thingstotest.rtf
