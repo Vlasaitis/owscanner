@@ -1,5 +1,7 @@
 # Overwatch Scanner
 
+Video going through entire development process: https://youtu.be/0xzNe3z4EUY
+
 ### CLICK ON IMAGE FOR VIDEO DEMO
 [![Demo Video](https://img.youtube.com/vi/MlfHNBkLncg/maxresdefault.jpg)](https://youtu.be/MlfHNBkLncg)
 
